@@ -1,0 +1,6 @@
+@PeriodTracker.Server_HostAddress = http://localhost:5196
+
+GET {{PeriodTracker.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

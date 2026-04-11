@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:56024",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\MyProjects\\PeriodTracker\\PeriodTracker.Server\\..\\periodtracker.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
